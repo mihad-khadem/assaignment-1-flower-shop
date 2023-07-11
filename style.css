@@ -100,5 +100,27 @@
 
 /* Hot Deal Section Starts */
 .hot-deal{
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.hot-deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+span{
+    color: #E55473;
+
+}
+.hot-deal-des{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.hot-deal-img{
+    width: px;
 }
