@@ -154,3 +154,44 @@ span{
     width: 100%;
     height: 100%;
 }
+
+/* Subscribe Section Starts */
+.subscribe-container{
+    background-image: url("assets/Rectangle\ 9.png");
+    height: 450px;
+    width: 1300;
+    background-repeat: no-repeat;
+    margin: 50px;
+}
+.sub-semi-con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    gap: 200px;
+    border: 0px;
+    width: 100%;
+}
+
+.subscribe-text{
+    text-align: center;
+    padding: 50px 0px 0px 20px;
+}
+
+.subscribe-des{
+    text-align: center;
+    padding: 20px;
+}
+input[type="text"]{
+    padding: 18px 100px;
+    border: 0px;
+    border-radius: 8px;
+    width: 100%;
+    margin-bottom: 25px;
+
+
+}
+.sub-btn{
+    padding: 20px 0px 38px 30px;
+    
+}
